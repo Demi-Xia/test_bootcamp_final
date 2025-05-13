@@ -1,5 +1,5 @@
 # Data Bootcamp Final Project
 
-This is my final project (Excexutive Summary)
+This is my final project
 
 Upload EDA and Modeling Notebook
